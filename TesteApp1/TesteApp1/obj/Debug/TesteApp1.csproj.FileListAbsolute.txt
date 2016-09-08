@@ -1,0 +1,6 @@
+C:\Users\sala411.PORTOALEGRE.001\Documents\S2B\TesteApp1\TesteApp1\bin\Debug\TesteApp1.exe.config
+C:\Users\sala411.PORTOALEGRE.001\Documents\S2B\TesteApp1\TesteApp1\bin\Debug\TesteApp1.exe
+C:\Users\sala411.PORTOALEGRE.001\Documents\S2B\TesteApp1\TesteApp1\bin\Debug\TesteApp1.pdb
+C:\Users\sala411.PORTOALEGRE.001\Documents\S2B\TesteApp1\TesteApp1\obj\Debug\TesteApp1.csprojResolveAssemblyReference.cache
+C:\Users\sala411.PORTOALEGRE.001\Documents\S2B\TesteApp1\TesteApp1\obj\Debug\TesteApp1.exe
+C:\Users\sala411.PORTOALEGRE.001\Documents\S2B\TesteApp1\TesteApp1\obj\Debug\TesteApp1.pdb

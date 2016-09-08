@@ -1,0 +1,6 @@
+C:\Users\sala411.PORTOALEGRE.001\Documents\S2B - talita\teste2\teste2\bin\Debug\teste2.exe.config
+C:\Users\sala411.PORTOALEGRE.001\Documents\S2B - talita\teste2\teste2\bin\Debug\teste2.exe
+C:\Users\sala411.PORTOALEGRE.001\Documents\S2B - talita\teste2\teste2\bin\Debug\teste2.pdb
+C:\Users\sala411.PORTOALEGRE.001\Documents\S2B - talita\teste2\teste2\obj\Debug\teste2.csprojResolveAssemblyReference.cache
+C:\Users\sala411.PORTOALEGRE.001\Documents\S2B - talita\teste2\teste2\obj\Debug\teste2.exe
+C:\Users\sala411.PORTOALEGRE.001\Documents\S2B - talita\teste2\teste2\obj\Debug\teste2.pdb

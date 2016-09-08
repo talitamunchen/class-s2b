@@ -1,0 +1,5 @@
+C:\Users\sala411.PORTOALEGRE.001\Documents\S2B - talita\TesteApp3\TesteApp3\bin\Debug\TesteApp3.exe.config
+C:\Users\sala411.PORTOALEGRE.001\Documents\S2B - talita\TesteApp3\TesteApp3\bin\Debug\TesteApp3.exe
+C:\Users\sala411.PORTOALEGRE.001\Documents\S2B - talita\TesteApp3\TesteApp3\bin\Debug\TesteApp3.pdb
+C:\Users\sala411.PORTOALEGRE.001\Documents\S2B - talita\TesteApp3\TesteApp3\obj\Debug\TesteApp3.exe
+C:\Users\sala411.PORTOALEGRE.001\Documents\S2B - talita\TesteApp3\TesteApp3\obj\Debug\TesteApp3.pdb
